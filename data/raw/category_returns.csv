@@ -1,0 +1,28 @@
+category,sub_category,period,avg_return_pct
+Equity,Large Cap,1Y,11.18
+Equity,Large Cap,3Y,8.48
+Equity,Large Cap,5Y,5.84
+Equity,Mid Cap,1Y,17.15
+Equity,Mid Cap,3Y,20.43
+Equity,Mid Cap,5Y,15.17
+Equity,Small Cap,1Y,20.73
+Equity,Small Cap,3Y,7.0
+Equity,Small Cap,5Y,17.83
+Equity,Flexi Cap,1Y,11.35
+Equity,Flexi Cap,3Y,12.81
+Equity,Flexi Cap,5Y,15.96
+Debt,Liquid,1Y,18.1
+Debt,Liquid,3Y,5.08
+Debt,Liquid,5Y,10.99
+Debt,Corporate Bond,1Y,17.77
+Debt,Corporate Bond,3Y,13.63
+Debt,Corporate Bond,5Y,10.15
+Debt,Gilt,1Y,4.73
+Debt,Gilt,3Y,4.13
+Debt,Gilt,5Y,11.65
+Hybrid,Aggressive Hybrid,1Y,12.7
+Hybrid,Aggressive Hybrid,3Y,8.13
+Hybrid,Aggressive Hybrid,5Y,18.39
+Hybrid,Balanced Advantage,1Y,17.02
+Hybrid,Balanced Advantage,3Y,7.39
+Hybrid,Balanced Advantage,5Y,7.38
